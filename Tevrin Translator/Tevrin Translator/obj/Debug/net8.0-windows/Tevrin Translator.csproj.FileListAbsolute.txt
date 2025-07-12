@@ -1,0 +1,38 @@
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Tevrin Translator.exe
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Tevrin Translator.deps.json
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Tevrin Translator.runtimeconfig.json
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Tevrin Translator.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Tevrin Translator.pdb
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\OpenAI.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.csproj.AssemblyReference.cache
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin_Translator.Form1.resources
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.csproj.GenerateResource.cache
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.AssemblyInfoInputs.cache
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.AssemblyInfo.cs
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.csproj.CoreCompileInputs.cache
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin T.4EDC8288.Up2Date
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\refint\Tevrin Translator.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.pdb
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin Translator.genruntimeconfig.cache
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\ref\Tevrin Translator.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\obj\Debug\net8.0-windows\Tevrin_Translator.Form2.resources
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\SPACEMAN\Documents\Tevrin Translator\Tevrin Translator\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
